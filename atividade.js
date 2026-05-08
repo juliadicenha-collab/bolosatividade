@@ -20,7 +20,7 @@ function novoBolo(bolo, valor){
 
 // Remover um elemento
 function deletarBolo(indice){
-    bolos.splice(indice, 1)
+    Bolos.splice(indice, 1)
     valores.splice(indice, 1)
 }
 
